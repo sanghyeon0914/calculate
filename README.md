@@ -8,7 +8,7 @@
 🚀 사용 방법 <br>
 visual Studio code , intellij IDEA 코드복사 후 실행 <br>
 
-![image](https://github.com/user-attachments/assets/21acd112-8563-4667-8467-3f31e3e213ff)
+![image](https://github.com/user-attachments/assets/21acd112-8563-4667-8467-3f31e3e213ff)<br>
 이와 같은 터미널 창 및 작동 여부 확인 가능<br><br>
 
 ![image](https://github.com/user-attachments/assets/bd2eb08f-7e67-4865-a93d-f830fcfbfdad)<br>
